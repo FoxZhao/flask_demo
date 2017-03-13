@@ -1,2 +1,9 @@
 __pycache__/
 .DS_Store
+app/__pycache__
+app/main/__pycache__
+*.sqlite
+*.py[cod]
+migrations/__pycache__
+migrations/versions/__pycache__
+tests/__pycache__
